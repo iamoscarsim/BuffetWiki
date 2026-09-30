@@ -1,0 +1,364 @@
+# Index
+
+Content catalog of the wiki. Each entry links to a page with a one-line summary.
+Read this first when answering queries. Updated on every ingest.
+
+## Sources
+- [[1977]] — Earliest letter; ROE yardstick, four acquisition criteria, insurance growth, See's, textiles.
+- [[1978]] — Diversified merger; Sources-of-Earnings table; SAFECO; look-through earnings; commodity economics.
+- [[1979]] — Book-value milestone (20.5% since 1964); inflation/misery index; turnarounds seldom turn; owner candor.
+- [[1980]] — Look-through "iceberg"; GEICO deep-dive & Jack Byrne; buybacks; hamburger/inflation; Gene Abegg eulogy.
+- [[1981]] — Toads & princesses (premium takeovers); inflation "tapeworm"/value-added; GEICO at $199.8M; designated gifts.
+- [[1982]] — ROE yardstick retired; issuing-shares essay; commodity/overcapacity; acquisition want-ad; Lou Simpson.
+- [[1983]] — Owner business principles; Nebraska Furniture Mart & Mrs. B; intrinsic value vs book; the Goodwill appendix.
+- [[1984]] — Dividend-policy essay; loss-reserving candor; WPPSS bonds; buybacks vs greenmail; Cap Cities/ABC deal.
+- [[1985]] — Textile shutdown & Burlington; stock-options essay; Scott Fetzer; Cap Cities/ABC; WaPo "triple dip"; +48.2%.
+- [[1986]] — Owner-earnings appendix; "moat" coined (GEICO); Fechheimer; want-ad re-run; fear/greed; Tax Reform Act; +26.1%.
+- [[1987]] — Mr. Market allegory; the Sainted Seven (~57% ROE); 1987 crash & portfolio insurance; Salomon preferred; +19.5%.
+- [[1988]] — Coca-Cola & Freddie Mac bought; "favorite holding period is forever"; arbitrage + EMT essays; Borsheim's; NYSE listing; AAA; +20.0%.
+- [[1989]] — 25th-anniversary letter; the Coca-Cola essay; four preferreds; super-cat reinsurance; zero-coupon & "Mistakes of the First 25 Years" essays; +44.4%.
+- [[1990]] — Cost-of-float essay; super-cat fully framed; Wells Fargo (bank panic); junk bonds & "margin of safety"; media decline; Colman Mockler eulogy; +7.3%.
+- [[1991]] — Franchise-vs-business essay & media valuation math; "double-dip" (Coke+Gillette P/E); Salomon interim chairman; H.H. Brown; See's 20-year retrospective; Fannie Mae "thumb-suck"; +39.6%.
+- [[1992]] — Value/growth "joined at the hip" essay; stock-option-expensing plea; Hurricane Andrew; General Dynamics (arb→investment); Central States Indemnity; Mrs. B returns at 99; +20.3%.
+- [[1993]] — Dexter Shoe (stock-funded); the risk/beta essay (real risk ≠ volatility); three-mode corporate governance; Li'l Abner deferred-tax parable; Cap Cities ⅓ sold; Mrs. B turns 100; +14.3%.
+- [[1994]] — "Fat wallet" warning; the Scott Fetzer book-vs-intrinsic worked example; capital-allocation & compensation essays; USAir gold-medal mistake; Amex built to ~10%; GEICO crosses 50%; +13.9%.
+- [[1995]] — GEICO bought whole ($2.3B); Helzberg's & R.C. Willey (ABWA); Class B share recap (anti-clone); Cap Cities → Disney; float-as-equity; the Gillette-preferred "biggest mistake"; +45.0%.
+- [[1996]] — FlightSafety (~$1.5B, first capital-intensive biz) & Kansas Bankers Surety; GEICO 100% (float → $6.7B); "The Inevitables" (Coke/Gillette); Owner's Manual; Class B sold; McDonald's/Disney; +36.1%.
+- [[1997]] — Star Furniture & International Dairy Queen; "Quack" (bull-market modesty); Ted Williams "fat pitch"; silver/oil/zero-coupon Treasuries; GEICO in-force +16%; Salomon→Travelers; USAir miracle; Goizueta dies; +34.1%.
+- [[1998]] — **General Re ($22B)** & **Executive Jet/NetJets**; book-value gain "not as good as it looks" (share issuance); float → $22.8B; GEICO "shot the lights out"; sold McDonald's (a mistake); two accounting essays (options, "big baths"); +48.3%.
+- [[1999]] — **Worst year of Buffett's tenure** (+0.5%, capital-allocation "D"); Jordan's Furniture & **MidAmerican Energy** (first utility, both cash); Gen Re $1.4B underwriting loss; GEICO share 2.7→4.1%; why-no-tech; the buyback doctrine; Davy dies; Dexter hit by imports.
+- [[2000]] — **Eight acquisitions** (~$8B, 97% cash): CORT, U.S. Liability, Ben Bridge, Justin/Acme, Shaw, Benjamin Moore, Johns Manville. The **Aesop "bird in the bush"** essay + dot-com warning; explicit **Dexter mea culpa**; Freddie/Fannie sold; Ralph Schey retires; +6.5%.
+- [[2001]] — **First down year of the modern era** (−6.2%); **September 11** → the P/C-insurance essay, the three underwriting rules, and the **Noah rule** as General Re breaks all three ($800M loss-reserve hit; cost of float 12.8%). Acquisitions (all cash): MiTek, XTRA, Larson-Juhl, Fruit of the Loom (via debt); Berkadia/FINOVA; "need elephants now."
+- [[2002]] — **"Banner year"** (+10.0% vs S&P −22.1%). The **[[Derivatives]] "financial weapons of mass destruction"** essay (Gen Re Securities wind-down); big **governance/audit/options-expensing** essay; "I was dead wrong" on General Re (further $1.31B reserve charge). Float $41.2B at 1% cost. Acquisitions: CTB, Garan, The Pampered Chef; MEHC gas pipelines (Kern River, Northern Natural).
+- [[2003]] — **+21%**; record **insurance float $44.2B at no cost** (+$1.7B underwriting profit); Gen Re "fixed." Acquisitions **Clayton Homes** & **McLane**. The **foreign-currency/dollar bet** (~$12B; [[Trade Deficit and the Dollar]]); the mutual-fund-scandal governance essay; **$3.3B tax**; **designated-gifts program terminated**.
+- [[2004]] — **+10.5%, lagged the S&P**; "I struck out" on acquisitions (~$43B cash). The NICO **"Portrait of a Disciplined Underwriter"** + GEICO low-cost history; the **"Big Four"** essay; MidAmerican's **−$579M zinc write-off** → "mono-linked chains." FX position ~$21.4B. Al Ueltschi → Bruce Whitman at FlightSafety.
+- [[2005]] — **+6.4%** in the **Katrina** year ($3.4B losses, float still costless via GEICO). **Five acquisitions, no stock** (MedPro, Forest River, Business Wire, Applied Underwriters, PacifiCorp). **PUHCA repealed** → MidAmerican consolidated. The **"widening the moat"** essay; Gillette→P&G merger; Gen Re Securities exit losses −$404M; Chuck Huggins → Brad Kinstler at See's.
+- [[2006]] — **Record +$16.9B / +18.4%.** No hurricanes → **$3.8B underwriting profit**. **ISCAR** (first foreign acquisition, $4B); **TTI**; **Equitas** retroactive reinsurance ($7.12B/$13.9B). The **newspaper-decline essay**; NetJets turns profitable; Gen Re Securities wound down; investment-side **succession** search begins.
+- [[2007]] — **+11%**; the **subprime crisis dawns** ("swimming naked"). The **Marmon** (Pritzker) Christmas-Day deal (60%/$4.5B, largest cash purchase); **BNSF** stake begun; **PetroChina sold** (~$3.5B gain). The **"Great, Good and Gruesome"** essay; the definitive **Dexter** $3.5B mea culpa; the **equity-index put** + **CDS** derivative books detailed.
+- [[2008]] — **−9.6%** (worst year, but beat S&P −37% by 27.4 pts); the **financial crisis**. "Pessimism is your friend": **$14.5B** crisis deals (Goldman, GE, Wrigley). **Paid $2.8B to hold $58.5B of float** (6th straight UW profit). The **ConocoPhillips** mistake; Irish banks −89%. **BHAC** (muni bond insurer); **Constellation** windfall (+$1,092M); **BYD** (10%); equity-put **−$5.1B mark** + "Beware of geeks bearing formulas." "America's best days lie ahead."
+- [[2009]] — **+19.8%** snap-back. **BNSF** bought whole (~$26B; the "all-in wager on America") → new utility-&-railroad sector. 7th straight UW profit; **float $62B**. **NetJets** rescue (Sokol; $711M loss → profit). The **GEICO credit-card** fiasco confessed; the **issuing-shares essay** ("colonoscopy"; A&B; "don't ask the barber"). **Dow Chemical** $3B; 50% of **Berkadia** (Capmark). BYD $232M → ~$2B. "When it's raining gold, reach for a bucket, not a thimble."
+- [[2010]] — **+13%**; **BNSF closes** (+~40% pre-tax to "normal" earning power ~$17B pre-tax). Intrinsic-value **three pillars**; the **GEICO case study** (book $1.4B vs ~$14B economic goodwill). 8th straight UW profit; **float $65.8B**; **NetJets** +$918M swing to profit. **Marmon** → 80%. **Lou Simpson** retires; **Todd Combs** hired; **Munich Re** stake. "Elephant gun reloaded… trigger finger itchy." "Life and Debt": a single zero erases any string of numbers.
+- [[2011]] — **+4.6%**; **Lubrizol** acquired (~$9B); the **"fabulous five"** (>$9B pre-tax). First major tech stock **IBM** ($10.9B) + **Bank of America** ($5B pref + 700M warrants). **Buyback doctrine** (≤110% of book; $20B cash floor) + net-buyer/IBM logic. 9th straight UW profit (slim $248M, cat-heavy); **float $70.6B**. The **Energy Future Holdings** "unforced error"; "I was dead wrong" on housing. **Ted Weschler** hired; **Sokol** departs over Lubrizol trades.
+- [[2012]] — **+14.4%** ("subpar" vs S&P +16%). The **Heinz** 50/50 deal with **3G/Lemann** (~$12B). **Powerhouse five** $10.1B; record **26 bolt-ons** ($2.3B). 10th straight UW profit; **float $73B**; GEICO 9.7% (Hurricane Sandy its largest loss). The **dividend essay** ("sell-off" math) and the **newspaper essay** (28 dailies; local news + paywalls). **Combs & Weschler** thrive (~$5B each). First buyback ($1.3B; limit → 120% of book). HomeServices rebrand; **Stan Lipsey** retires.
+- [[2013]] — **+18.2%** (trailed S&P +32.4%). **~$18B** of deals: **NV Energy** ($5.6B) + **Heinz** (closed, w/ 3G); **Marmon & Iscar → 100%** ($3.5B). 11th straight UW profit; **float $77B**; **GEICO now #2** (~$20B economic goodwill); **BHSI** (commercial insurance) launched. **Powerhouse five** $10.8B. The **"two small investments"** (farm + NYU) essay. Big Four ownership all up (unrealized gains $39B). **Combs & Weschler** each >$7B. Capex record $11B.
+- [[2014]] — **Golden Anniversary** (+8.3%; 50 yrs, market gain 1,826,163%). Two landmark essays: Buffett's **conglomerate defense** + "next 50 years," and Munger's **"[[The Berkshire System]]"** (Abel & Jain "world-leading"). **Powerhouse five** $12.4B; **NICO net worth $111B**; GEICO 10.8%. **31 bolt-ons** ($7.8B; incl. **Duracell**); **Van Tuyl** → "car guys"; **AltaLink** (C$3B). Dexter restated (stock now worth $5.7B). BNSF service failures → $6B 2015 capex.
+- [[2015]] — **+6.4%**. **Precision Castparts** (~$32B cash, Berkshire's largest deal → "Powerhouse Six"). **BNSF turnaround** (record $6.8B pre-tax on $5.8B capex). **Kraft Heinz** formed (Berkshire ~27% + $8B pref). 13th straight UW profit; **float $88B**; **NICO** the world's largest P/C insurer; GEICO 11.4%. Intrinsic-value methodology now **includes underwriting income**. The "bet on America" essay ("luckiest crop in history"). Combs & Weschler each ~$9B.
+- [[2016]] — **+10.7%** to **$172,108** (52 yrs, **19%**). **[[Apple]]** bought (first big tech stake) + a basket of **four [[Evolving Views — Airlines|airlines]]**; **[[Charter Communications]]** new. The **share-repurchase essay** ("smart at one price, stupid at another"); three accounting essays; **"[[Index Funds and Fees|The Bet]]"** (index trounces hedge funds; **[[Jack Bogle]]** tribute). **14th straight UW profit**; float **$91.6B** (soon >$100B via the AIG deal). **[[Tad Montross]]→[[Kara Raiguel]]** at Gen Re; GEICO share ~12%; **Clayton** America's largest homebuilder. BNSF off year; BHE+BNSF = 33% of after-tax operating earnings.
+- [[2017]] — **+23.0%** to **$211,750** — but **$29B of the $65.3B gain came from tax reform**, not operations. Warns the **[[Operating Earnings vs GAAP Net Income|new GAAP rule]]** will make net income "useless." **First underwriting loss in 15 years** (Harvey/Irma/Maria, −$3.2B); float **$114.5B** (record **[[AIG retroactive reinsurance|$10.2B AIG]]** policy). Acquisition drought → one stand-alone deal, **[[Pilot Flying J]]** (38.6%). **[[Apple]]** built ~4×; **[[Bank of America]]** warrant exercised; new **[[Bank of New York Mellon]]**, **[[General Motors]]**. **"[[Index Funds and Fees|The Bet]]" won** (index +125.8%). **[[Ajit Jain]] & [[Greg Abel]] named Vice Chairmen** — the succession made operational.
+- [[2018]] — **Book value abandoned** as the headline metric → focus on market price + the **[[The Five Groves|five groves]]**. GAAP net income just **$4.0B** (mark-to-market noise) vs. record **operating $24.8B**; tax cut to 21% lifted intrinsic value. **[[Apple]] now the #1 holding** ($40B); **[[Bank of America]]** built up; **[[JPMorgan Chase]]** new; **~$43B** of stocks bought. **120%-of-book buyback cap scrapped**. **[[Tony Nicely]]** retired (→ **[[Bill Roberts]]**); **[[Kraft Heinz]]** intangibles write-off. The **[[The American Tailwind|"American Tailwind"]]** essay ($114.75 in 1942 → $606,811).
+- [[2019]] — **Market +11.0%** (vs S&P +31.5%); GAAP net income **$81.4B** (mostly mark-to-market). The **"[[The Power of Retained Earnings|Power of Retained Earnings]]"** essay (Smith/Keynes); 10 holdings' retained earnings ($8.3B) dwarf dividends ($3.8B). **[[Apple]] ~30% of the $248B portfolio**; new **$10B [[Occidental Petroleum]]** financing + **[[Visa]]**; **[[Kraft Heinz]]** falls below cost. **$5B buyback** (largest yet). **[[MidAmerican Energy|BHE]] at 20**; **[[Guard Insurance|GUARD]]** showcase. "The Road Ahead" + Buffett's **will**; the **directors/independence** essay.
+- [[2020]] — **COVID year: market +2.4%.** Operating earnings fell 9% to **$21.9B**; an **$11B [[Precision Castparts]] write-down** ("I paid too much"). **Record $24.7B buybacks (5.2%)**. The **"Big Four"**: insurance, **[[Burlington Northern Santa Fe|BNSF]]**, **[[Apple]]**, **[[MidAmerican Energy|BHE]]**. **Sold all four airlines** ([[Evolving Views — Airlines]]) and most banks (kept/added **[[Bank of America]]**); new **[[Chevron]]**, **[[Verizon Communications|Verizon]]**, pharma, and **[[Japanese Trading Houses]]**. Berkshire owns the **most U.S. PP&E ($154B)**. **[[Carl Ice]]→[[Katie Farmer]]** at BNSF; BHE's **$18B Western grid**. "Never bet against America."
+- [[2021]] — **Market +29.6%.** Built around the **"Four Giants"**: insurance (float **$147B**), **[[Apple]]** ($161B; "runner-up Giant"), **[[Burlington Northern Santa Fe|BNSF]]** (record $6B), **[[MidAmerican Energy|BHE]]** (record $4B). **$51.7B of buybacks** over 2020–21 (9% of shares); cash $144B. Berkshire owns the most U.S. PP&E ($158B); the textile-era "silent partner"/tax history. Tribute to **[[Paul Andrews Jr.|Paul Andrews]]** ([[TTI]]) and the TTI→BNSF story. "Business-pickers, not stock-pickers."
+- [[2022]] — **Market +4.0%** (vs S&P −18.1%); **record operating earnings $30.8B**. **[[Alleghany Corporation]]** acquired (~$11.6B; **[[Joe Brandon]]**); float **$164B**. **"The Secret Sauce"** ([[Coca-Cola]] + [[American Express]], each ~$1.3B → $22–25B). Buyback defense ("economic illiterate or a silver-tongued demagogue"); **$32B** federal tax/decade. Largest owner of **eight giants** (+ new **[[HP Inc.]]**, **[[Paramount Global]]**, enlarged **[[Chevron]]**/**[[Occidental Petroleum]]**). **[[Charlie Munger]]** aphorisms — his last letter alongside Buffett.
+- [[2023]] — **Market +15.8%**; **record operating earnings $37.35B**. Opens with the eulogy for **[[Charlie Munger]]** (d. Nov 28, 2023, "the architect"). Framed for sister **[[Bertie Buffett]]**. **GAAP net worth $561B** (~6% of the whole S&P 500). Disappointments at **[[Burlington Northern Santa Fe|BNSF]]** and **[[MidAmerican Energy|BHE]]** (wildfire/regulatory — "a costly mistake"); insurance "carried the day." **[[Occidental Petroleum]]** to 27.8%, **[[Japanese Trading Houses]]** to ~9% each. **[[Greg Abel]]** "ready to be CEO… tomorrow."
+- [[2024]] — **Market +25.5%**; **record operating earnings $47.4B**. **Record $26.8B federal tax** (most ever by any U.S. company). Buffett's last letter as CEO-author: "**it won't be long before [[Greg Abel]] replaces me as CEO and will be writing the annual letters**." Big **[[Apple]]**/**[[Bank of America]]** sales (marketable equities $354B→$272B) → record T-bill cash, but "majority… forever in equities." **[[GEICO]]** reshaped by **[[Todd Combs]]**; **BHE → 100%**; **[[Japanese Trading Houses]]** ceiling relaxed. Tribute to **[[Pete Liegl]]** ([[Forest River]]). "Mistakes — Yes, We Make Them."
+
+## Businesses
+- [[National Indemnity Company]] — Foundational insurer; bought 1967; underwriting discipline.
+- [[See's Candies]] — Archetypal wonderful business; high returns on little capital; bought 1972.
+- [[Blue Chip Stamps]] — Trading-stamp float vehicle holding See's and Wesco.
+- [[Illinois National Bank]] — Rockford bank, ~3x peer returns; bought 1969.
+- [[GEICO]] — Low-cost auto insurer; held as stock from the 1976 crisis.
+- [[Wesco Financial]] — 80%-owned Blue Chip subsidiary; later Munger-chaired.
+- [[Washington Post]] — Signature 1973 equity buy; dominant media franchise.
+- [[Capital Cities]] — Broadcaster run by Tom Murphy; case for non-control ownership.
+- [[Berkshire Hathaway Textiles]] — Original business; the headwinds cautionary tale.
+- [[Diversified Retailing Company]] — Merged into Berkshire 1978; raised Blue Chip stake to 58%.
+- [[Associated Retail Stores]] — Women's apparel chain; high returns, no growth, under Ben Rosner.
+- [[Buffalo Evening News]] — Newspaper bought 1977; early losses then dominant franchise.
+- [[SAFECO]] — Best-run P&C insurer, bought below book as a stock; look-through earnings example.
+- [[Precision Steel]] — Steel-service center held via Wesco; modest steady operating business.
+- [[American Express]] — 1964 salad-oil analogy; later a major permanent holding.
+- [[Mutual Savings and Loan]] — California thrift in Wesco; repositioned by Munger/Vincenti.
+- [[Nebraska Furniture Mart]] — Omaha's dominant low-cost home-furnishings store; bought 1983.
+- [[WPPSS Bonds]] — Distressed 1983–84 bond bet; the "bond-as-a-business" case study.
+- [[Scott Fetzer]] — 17-business manufacturer (World Book, Kirby); bought 1985; prototype acquisition.
+- [[Fireman's Fund]] — 1985 7% quota-share reinsurance deal; followed Jack Byrne.
+- [[General Foods]] — Top-four holding 1979–85; sold to Philip Morris for a $338M gain.
+- [[Fechheimer Brothers]] — Cincinnati uniform maker; bought 1986 via the want ad; Heldman family.
+- [[World Book]] — Scott Fetzer's encyclopedia leader; direct-sales franchise with a teacher salesforce.
+- [[Kirby]] — Scott Fetzer's premium home-cleaning systems; durable direct-sales franchise.
+- [[NHP]] — ~50% stake in a multi-family housing developer/manager; minor 1986 holding.
+- [[Salomon]] — Wall Street investment bank; $700M convertible preferred bought 1987; later the 1991 scandal.
+- [[Coca-Cola]] — The archetypal franchise; Berkshire's flagship stock, first bought 1988.
+- [[Freddie Mac]] — Preferred bought 1988 via Mutual Savings (legal maximum); a long-term holding.
+- [[Borsheim's]] — Omaha jewelry store; 80% bought 1989; the Friedman family (Mrs. B's relatives).
+- [[Gillette]] — Razor-and-blade franchise; $600M convertible preferred (1989), later a flagship stock.
+- [[USAir]] — 1989 convertible preferred; Buffett's cautionary tale on airline economics.
+- [[Champion International]] — Paper company; 1989 convertible preferred; an "agnostic" industry bet.
+- [[Wells Fargo]] — California bank; ~10% bought 1990 in a panic; the net-buyer case study.
+- [[H. H. Brown]] — Leading North American work-shoe maker; bought 1991; the capital-charge pay model.
+- [[Guinness]] — British drinks company; Berkshire's first significant foreign stock (1991).
+- [[Fannie Mae]] — Not a holding but a ~$1.4B error of omission (the 1991 "Mistake Du Jour").
+- [[First Empire State]] — Buffalo bank holding co.; $40M convertible preferred (1991), backing Bob Wilmers.
+- [[Central States Indemnity]] — Omaha credit-card payment-protection insurer; 82% bought 1992; the Bill Kizer deal.
+- [[General Dynamics]] — Defense contractor; 14% bought 1992; an arbitrage that became a long-term holding.
+- [[Lowell Shoe]] — Nursemates maker; H. H. Brown's 1992 add-on acquisition.
+- [[Dexter Shoe]] — Maine shoemaker bought 1993 for Berkshire stock; later the most-regretted deal.
+- [[Gannett]] — Newspaper/USA Today publisher; small 1994 stock position.
+- [[PNC Bank]] — Pittsburgh bank; 1994 stock position alongside Wells Fargo.
+- [[Helzberg's Diamond Shops]] — Kansas City jewelry chain; bought 1995 via a street-corner intro (ABWA).
+- [[R.C. Willey Home Furnishings]] — Utah's home-furnishings leader; bought 1995 (Blumkin-sourced).
+- [[Disney]] — Acquired as a major holding via the 1996 Cap Cities/ABC merger; Buffett's 1960s round-trip.
+- [[FlightSafety International]] — World leader in pilot training; ~$1.5B (1996); Berkshire's first capital-intensive business; Al Ueltschi.
+- [[Kansas Bankers Surety]] — Bank-insurance specialty insurer; bought 1996 ($75M) and placed under Wesco; Don Towle.
+- [[McDonald's]] — Global fast-food chain; a ~$1.4B 1996 stock position (a "Highly Probable," not an Inevitable); later sold.
+- [[Star Furniture]] — Houston home-furnishings chain; bought 1997 via the Blumkin→R.C. Willey referral chain; Melvyn Wolff.
+- [[International Dairy Queen]] — Dairy Queen franchisor (5,792 stores); bought 1997 (closed early 1998); cash-tilted deal.
+- [[Travelers Group]] — Received in the 1997 Salomon→Travelers merger; the redemptive close to the Salomon saga.
+- [[General Re]] — Largest U.S. P&C reinsurer (+ 82% of Cologne Re); $22B 1998 acquisition; Berkshire's volatility-tolerant capital as edge.
+- [[Executive Jet]] — NetJets fractional-jet leader; $725M (1998); Rich Santulli; trained by FlightSafety.
+- [[Jordan's Furniture]] — New England "shoppertainment" furniture leader; bought 1999 (cash); the Tatelman brothers; #1 sales per sq ft.
+- [[MidAmerican Energy]] — Berkshire's first electric utility; ~$2B (1999); ~76% equity / <10% vote (PUHCA); David Sokol.
+- [[CORT Business Services]] — National "rent-to-rent" furniture leader; bought 2000 (~$386M → Wesco).
+- [[U.S. Liability]] — Excess & surplus lines insurer; bought 2000 (half cash/half stock); Tom Nerney.
+- [[Ben Bridge Jeweler]] — 65-store West Coast jeweler; bought 2000; 4th-gen Bridge family; via Barnett Helzberg.
+- [[Justin Industries]] — Western boots (Justin/Tony Lama) + Acme Brick (Texas leader); bought 2000 (~$570M).
+- [[Shaw Industries]] — World's largest carpet maker; bought 2000 (87.3%); Berkshire's largest non-insurance business.
+- [[Benjamin Moore]] — 117-year-old paint maker; bought 2000 ($1B); independent-dealer network.
+- [[Johns Manville]] — Leading insulation/roofing maker; bought 2000 (~$1.8B all-cash, ex-asbestos-trust).
+- [[MiTek]] — World leader in connector plates for roof trusses; bought 2001; the "55 managers buy 10% with their own cash" deal.
+- [[XTRA]] — Truck-trailer leasing leader; bought 2001 (tender expiring 9/11) out of Julian Robertson's Tiger Fund liquidation.
+- [[Larson-Juhl]] — U.S. leader in custom picture-frame moulding; bought 2001 (Craig Ponzio; "we answer the phone").
+- [[Fruit of the Loom]] — Underwear/apparel maker bought out of bankruptcy 2001–02 via its debt; John Holland kept as CEO; a Graham-Newman P&R homecoming.
+- [[FINOVA Group]] — Troubled finance company; the 2001 Berkadia ($5.6B, 90%-guaranteed) distressed-debt workout with Leucadia.
+- [[Leucadia National]] — Diversified holding company; Berkshire's Berkadia/FINOVA partner (2001).
+- [[Moody's]] — Credit-rating duopolist; new equity holding disclosed 2001 (via the D&B spin-off); high-margin franchise.
+- [[H&R Block]] — U.S. tax-prep leader; new equity holding disclosed 2001.
+- [[HomeServices of America]] — Berkshire's residential real-estate brokerage (via MidAmerican); #2 U.S. broker; Ron Peltier (2001).
+- [[CTB]] — Worldwide leader in poultry/hog/egg/grain equipment; bought 2002 (Vic Mancinelli).
+- [[Garan]] — Children's apparel maker (Garanimals); bought 2002 (Seymour Lichtenstein).
+- [[The Pampered Chef]] — Direct-sales kitchenware; bought 2002; Doris Christopher's $3,000-loan founder story.
+- [[Northern Natural Gas]] — 16,600-mile gas pipeline; bought 2002 by MidAmerican from a failing Dynegy (ex-Enron/InterNorth); an Omaha homecoming.
+- [[M&T Bank]] — Buffalo bank holding co. (Bob Wilmers); equity holding itemized 2002 (ex-First Empire).
+- [[General Re Securities]] — The unwanted derivatives dealer from the Gen Re deal; wound down from 2002 ("financial weapons of mass destruction").
+- [[Clayton Homes]] — Manufactured-housing leader (build/retail/finance); bought 2003 via the Tennessee-students/Jim Clayton-book story; Kevin Clayton CEO.
+- [[McLane]] — $23B-sales grocery/non-food distributor; bought 2003 from Wal-Mart (Byron Trott; handshake, no due diligence).
+- [[PetroChina]] — Chinese oil major; equity bought 2003 on a wide value gap; sold 2007 for a ~$3.5B gain.
+- [[White Mountains Insurance]] — P&C insurer linked to Jack Byrne; ~16% equity stake itemized 2004.
+- [[Medical Protective]] — Medical-malpractice insurer; bought 2005 (Tim Kenesey); disciplined culture + Berkshire's balance sheet.
+- [[Forest River]] — RV manufacturer; bought 2005 via Pete Liegl's two-page fax and a one-week handshake.
+- [[Business Wire]] — Press-release/disclosure distributor; bought 2005 after Cathy Baron Tamraz's letter.
+- [[Applied Underwriters]] — Payroll + workers'-comp for small businesses; 81% bought 2005 (via an Ajit Jain reinsurance deal).
+- [[PacifiCorp]] — Six-state Western electric utility; bought 2005–06 via MidAmerican (~$5.1B).
+- [[Procter & Gamble]] — Consumer-products giant; entered the portfolio via the 2005 Gillette→P&G merger.
+- [[Anheuser-Busch]] — Brewing giant; equity bought 2005, mostly sold into the 2008 InBev takeover.
+- [[Ameriprise Financial]] — Received via the 2005 American Express spin-off; later sold.
+- [[Wal-Mart]] — World's largest retailer; modest equity stake bought 2005 (its McLane unit bought 2003).
+- [[ISCAR]] — Israeli cutting-tools maker; 80% bought 2006 ($4B) — Berkshire's first non-U.S. acquisition; rest bought 2013.
+- [[TTI]] — Fort Worth electronic-components distributor; bought 2006 (Paul Andrews Jr.).
+- [[Russell Athletic]] — Athletic-apparel maker; bought 2006 (~$1.2B) as a Fruit of the Loom tuck-in.
+- [[Equitas]] — Lloyd's pre-1993 runoff vehicle; Berkshire's huge 2006 retroactive reinsurance ($7.12B/$13.9B).
+- [[Lloyd's of London]] — The centuries-old insurance marketplace; backdrop to the Equitas deal; the asbestos implosion.
+- [[ConocoPhillips]] — Oil major; equity bought 2006, enlarged near peak in 2008 (a multi-billion mistake).
+- [[Johnson & Johnson]] — Healthcare blue chip; equity bought 2006; partly sold in 2008 for crisis deployments.
+- [[POSCO]] — Korean steelmaker; equity bought 2006 (the foreign-equity turn).
+- [[Tesco]] — UK supermarket giant; equity bought 2006; sold at a −$444M loss in 2014 after "dawdling."
+- [[US Bancorp]] — Disciplined regional bank; equity bought 2006.
+- [[USG Corporation]] — Gypsum-wallboard leader; ~19% equity from 2006; later backstopped + cashed out (Knauf, 2019).
+- [[Marmon Group]] — Pritzker family's 125-business industrial conglomerate; 60% bought 2007 ($4.5B, largest cash deal); full by 2013.
+- [[Burlington Northern Santa Fe]] — Major railroad; stake begun 2007; bought whole 2009–10 (~$26B) — Berkshire's largest acquisition.
+- [[Kraft Foods]] — Packaged-foods giant; equity from 2007; the "dumb deal" Cadbury clash; later Kraft Heinz.
+- [[Richline Group]] — Jewelry supplier built under Berkshire from 2007 (Dennis Ulrich).
+- [[BoatU.S.]] — 650,000-member boat-owners association with an insurance arm; added 2007.
+- [[Sanofi-Aventis]] — French pharma; equity holding from 2007.
+- [[Goldman Sachs]] — Wall Street bank; $5B of 10% preferred + warrants in the 2008 crisis.
+- [[General Electric]] — Industrial conglomerate; $3B of 10% preferred + warrants in the 2008 crisis.
+- [[Wrigley]] — Gum maker; $6.5B into the 2008 Mars/Wrigley buyout (notes + equity).
+- [[BYD]] — Chinese electric-car/battery maker; 10% stake (2008), sourced by Sokol/Munger.
+- [[Constellation Energy]] — Utility MidAmerican tried to rescue in 2008; broke up at a +$1,092M profit.
+- [[Berkshire Hathaway Assurance]] — BHAC, Berkshire's muni-bond insurer, activated 2008 (run by Ajit Jain).
+- [[Swiss Re]] — Swiss reinsurer; 3.2% equity stake (2008) → crisis capital/reinsurance relationship.
+- [[Dow Chemical]] — Chemical maker; $3B convertible preferred (2009) to fund its Rohm & Haas deal.
+- [[Berkadia Commercial Mortgage]] — #3 commercial-mortgage servicer; 50/50 with Leucadia (2009, ex-Capmark).
+- [[Munich Re]] — World's largest reinsurer; 10.5% equity stake (2010).
+- [[Lubrizol]] — Specialty-chemicals maker; acquired 2011 (~$9B); James Hambrick; a "fabulous five" earner.
+- [[IBM]] — Tech/IT-services giant; Buffett's first big tech stock (2011, $10.9B); the net-buyer case study.
+- [[Bank of America]] — Money-center bank; $5B preferred + 700M warrants (2011); Brian Moynihan turnaround.
+- [[Energy Future Holdings]] — Texas utility (ex-TXU); ~$2B bond "unforced error" (2011).
+- [[H.J. Heinz]] — Packaged foods; 50/50 with 3G/Lemann (2013; $8B preferred) → later [[Kraft Heinz]].
+- [[Guard Insurance]] — Pennsylvania workers'-comp insurer; 2012 bolt-on (~$300M premiums).
+- [[NV Energy]] — Nevada's dominant electric utility; bought 2013 by MidAmerican ($5.6B).
+- [[Berkshire Hathaway Specialty Insurance]] — BHSI; Berkshire's 2013 entry into commercial insurance (Peter Eastwood).
+- [[Van Tuyl Automotive]] — 78-dealership auto group bought 2014 → Berkshire Hathaway Automotive ("car guys").
+- [[Duracell]] — Battery maker bought from P&G via stock exchange (2014/2015); under Marmon.
+- [[AltaLink]] — Alberta electric-transmission utility; bought 2014 by BHE (C$3B).
+- [[Precision Castparts]] — Aerospace-components leader; ~$32B (2015), Berkshire's largest acquisition; Mark Donegan.
+- [[Kraft Heinz]] — Packaged-foods giant formed 2015 (Heinz + Kraft); Berkshire ~27% (with 3G).
+- [[Apple]] — Berkshire's first major tech-hardware stake (2016); a consumer-franchise bet, soon its largest holding.
+- [[Delta Air Lines]] — Major U.S. carrier; bought 2016 in the all-four-airlines basket.
+- [[Southwest Airlines]] — Low-cost U.S. carrier; bought 2016 in the airline basket.
+- [[United Continental Holdings]] — Parent of United Airlines; bought 2016 in the airline basket.
+- [[American Airlines]] — Largest U.S. carrier (contains the old US Airways/USAir); bought 2016.
+- [[Charter Communications]] — U.S. cable/broadband operator; Combs/Weschler equity position (2016).
+- [[Pilot Flying J]] — North America's largest travel-center operator; 38.6% bought 2017 (→ 80% in 2023); the Haslam family.
+- [[AIG retroactive reinsurance]] — The record $10.2B / $20B-cover 2017 reinsurance policy; pushed float past $100B.
+- [[Bank of New York Mellon]] — World's largest custody bank; equity position itemized 2017.
+- [[General Motors]] — Largest U.S. automaker; value/cyclical equity position (itemized 2017).
+- [[JPMorgan Chase]] — Largest U.S. bank; equity position taken 2018 (later sold ~2020).
+- [[Occidental Petroleum]] — Oil producer; $10B preferred + warrants (2019) to fund its Anadarko deal.
+- [[Visa]] — Global payments network; small wide-moat equity position (itemized 2019).
+- [[Verizon Communications]] — Telecom giant; large defensive equity position (2020; mostly sold 2021).
+- [[Chevron]] — Integrated oil major; energy position bought 2020 (later a top-tier holding).
+- [[Japanese Trading Houses]] — ~5% stakes in the five Japanese sōgō shōsha (Itochu et al.); long-term, yen-funded (2020).
+- [[Alleghany Corporation]] — P/C insurer/reinsurer; ~$11.6B acquisition (2022) under returning CEO Joe Brandon.
+- [[HP Inc.]] — PC/printer maker; large 2022 equity stake (Berkshire its largest owner; mostly sold 2023–24).
+- [[Paramount Global]] — Media conglomerate; 2022 stake sold at a loss by 2024 (a Buffett-owned mistake).
+
+## People
+- [[Warren Buffett]] — Chairman and author of the letters.
+- [[Charlie Munger]] — Partner and Vice Chairman; champion of buying wonderful businesses.
+- [[Phil Liesche]] — National Indemnity's star underwriter.
+- [[Gene Abegg]] — Founder-manager of the Illinois National Bank.
+- [[Chuck Huggins]] — Longtime steward of See's Candies.
+- [[Ken Chace]] — Ran the textile mills; his cash funded the move into insurance.
+- [[Jack Ringwalt]] — Founder of National Indemnity; source of its underwriting philosophy.
+- [[Ben Rosner]] — Owner-operator of Associated Retail Stores; thinks like an owner.
+- [[Phil Fisher]] — Growth-investing author; restaurant/clientele analogy; influence on Buffett.
+- [[Jack Byrne]] — Rescued GEICO from near-bankruptcy in 1976; the "surgeon."
+- [[Lou Simpson]] — GEICO's investment manager; the outside investor Buffett trusted with capital.
+- [[Mike Goldberg]] — Took over Berkshire's insurance operations in 1982; recruited Ajit Jain.
+- [[Rose Blumkin]] — "Mrs. B"; founded Nebraska Furniture Mart; merchant genius, working at 90.
+- [[Louie Blumkin]] — Mrs. B's son; NFM president; "shrewdest furniture buyer in the country."
+- [[Ralph Schey]] — CEO of Scott Fetzer; model operator and capital allocator.
+- [[Katharine Graham]] — Washington Post CEO; bargain-priced buybacks drove the "triple dip."
+- [[Stan Lipsey]] — Publisher of the Buffalo News; cost discipline without cutting the news hole.
+- [[Bill Snyder]] — GEICO Chairman; the cost-discipline engine who "widens the moat."
+- [[John Gutfreund]] — Salomon CEO; the integrity behind Berkshire's 1987 preferred; ousted in the 1991 scandal.
+- [[Harry Bottle]] — Munger's fundamentals-first turnaround fixer (Dempster Mill 1962; K&W Products 1987).
+- [[Ike Friedman]] — Head of the Friedman family that runs Borsheim's; Mrs. B's relative.
+- [[Ajit Jain]] — Insurance executive (first named 1988); later builds Berkshire's reinsurance giant.
+- [[Ben Graham]] — Buffett's teacher; the intellectual root of the whole method.
+- [[David Dodd]] — Columbia professor, Graham's Security Analysis co-author; eulogized 1988.
+- [[Colman Mockler]] — Gillette CEO; the management behind Berkshire's 1989 preferred.
+- [[Roberto Goizueta]] — Coca-Cola CEO (from 1981); the marketing-and-finance master who revived Coke.
+- [[Don Keough]] — Coca-Cola President; Buffett's former Omaha neighbor; Goizueta's partner.
+- [[Carl Reichardt]] — Wells Fargo CEO; "the dean" of bank managers; the reason Berkshire invested.
+- [[Susan Buffett]] — Buffett's wife; named successor controlling shareholder (1990 board nominee).
+- [[Bertie Buffett]] — Buffett's sister; the "perfect mental model" of the long-term shareholder (2023).
+- [[Tom Murphy]] — Cap Cities/ABC CEO; Buffett's gold standard for management + capital allocation.
+- [[Frank Rooney]] — CEO of H. H. Brown; former Melville Corp. CEO; the "concert hall" manager.
+- [[Ray Heffernan]] — Founder of H. H. Brown (1927); ran it 62 years.
+- [[Bob Wilmers]] — CEO of First Empire State; the reason for a deliberately small 1991 stake.
+- [[Seth Schofield]] — USAir CEO from 1991; fights for survival in a collapsing industry.
+- [[Malcolm Chace]] — Berkshire's textile-era Chairman; enabled Buffett's 1965 takeover; left board 1991.
+- [[John Maynard Keynes]] — Economist and investor; his 1934 letter marshaled for concentration.
+- [[Bill Kizer]] — Founder of Central States Indemnity; 35-year Buffett friend who sold to Berkshire (1992).
+- [[Bill Anders]] — General Dynamics CEO; his capital-return strategy won Berkshire over (1992).
+- [[John Burr Williams]] — Author of *The Theory of Investment Value*; source of Buffett's DCF definition.
+- [[Ron Olson]] — Munger Tolles lawyer; steered Salomon through its 1991 crisis; later a Berkshire director.
+- [[Bob Denham]] — Salomon executive (later chairman) credited with saving the firm (1992).
+- [[Harold Alfond]] — Founder of Dexter Shoe (1956); sold to Berkshire for stock (1993).
+- [[Peter Lunder]] — Harold Alfond's nephew and Dexter Shoe co-builder.
+- [[Susan Jacques]] — Borsheim's CEO from 1994; rose from a $4/hour job.
+- [[Howard Buffett]] — Warren's son; joined the board 1993 to represent the controlling interest.
+- [[Brad Kinstler]] — Berkshire insurance manager (workers' comp); later runs Fechheimer and See's.
+- [[Dan Burke]] — Tom Murphy's partner at Cap Cities/ABC; retired 1994.
+- [[Barnett Helzberg]] — Sold Helzberg's Diamond Shops to Berkshire after a street-corner meeting (1995).
+- [[Jeff Comment]] — CEO of Helzberg's (ex-Wanamaker's); the manager who made the deal possible.
+- [[Bill Child]] — CEO of R.C. Willey; built it from $250K to $257M of sales.
+- [[Tony Nicely]] — Runs GEICO's insurance side; "widened the moat" (1995 full acquisition).
+- [[Lorimer Davidson]] — "Davy"; the GEICO executive who taught the young Buffett insurance in 1951.
+- [[Al Ueltschi]] — Founder/CEO of FlightSafety International; lifelong aviator who built it from 1951; 79 at the 1996 sale.
+- [[Don Towle]] — Manager of Kansas Bankers Surety; "runs it as if it's his own."
+- [[Melvyn Wolff]] — CEO of Star Furniture (with sister Shirley Toomin); ran it from 1962; integrity-first handshake deal.
+- [[Ron Ferguson]] — Longtime CEO of General Re at the 1998 acquisition; reinsurance veteran given freedom to retain more business.
+- [[Rich Santulli]] — Founder-CEO of Executive Jet/NetJets; created the fractional-jet industry in 1986.
+- [[Tatelman Brothers]] — Barry and Eliot Tatelman; built Jordan's Furniture and its "shoppertainment"; gave employees $9M on the sale.
+- [[Walter Scott Jr.]] — Berkshire director who sourced MidAmerican Energy and became its controlling shareholder.
+- [[David Sokol]] — MidAmerican Energy CEO (1999); later built Berkshire Hathaway Energy; departed 2011.
+- [[Joe Brandon]] — Named General Re CEO in 2001 to restore underwriting discipline; Buffett's "Jack Welch" comparison.
+- [[Greg Abel]] — Sokol's "key associate" at MidAmerican (first named 2002); later built BHE, became vice chairman (2018) and the designated successor CEO (2021).
+- [[Doris Christopher]] — Founder of The Pampered Chef; the $3,000-life-insurance-loan entrepreneur (2002).
+- [[Jim Clayton]] — Founder of Clayton Homes; his autobiography sparked Berkshire's 2003 purchase.
+- [[Kevin Clayton]] — Clayton Homes CEO (Jim's son) at the 2003 sale; "able and a straight-shooter."
+- [[Byron Trott]] — Goldman (later BDT) banker; "the only investment banker who earns his fee"; sourced McLane (2003) and the Mars/Wrigley deal (2009).
+- [[David Gottesman]] — First Manhattan founder, longtime friend and big shareholder; joined the Berkshire board (2003).
+- [[Don Wurster]] — NICO's "superstar" CEO (since 1989); the disciplined-underwriter who shrank premium to protect margins (2004).
+- [[Bruce Whitman]] — Succeeded Al Ueltschi as FlightSafety CEO (2004); the safety-first training culture.
+- [[Pete Liegl]] — Forest River's owner-manager; the LBO-survivor entrepreneur who sold via a two-page fax (2005).
+- [[Cathy Baron Tamraz]] — Business Wire president/CEO whose letter sourced the 2005 acquisition.
+- [[Jim Kilts]] — Revived Gillette then merged it into P&G; Buffett's rare "CEO worth his pay" (2005).
+- [[Eitan Wertheimer]] — ISCAR chairman whose letter sparked Berkshire's first foreign acquisition (2006).
+- [[Paul Andrews Jr.]] — Built TTI ($112K→$1.3B); sold to Berkshire (2006) over strategic/PE buyers.
+- [[Vance Bell]] — Succeeded founder Bob Shaw as CEO of Shaw Industries (2006).
+- [[Mark Booth]] — Led NetJets Europe to profitability (2006), a key piece of the NetJets turnaround.
+- [[Mark Donegan]] — Precision Castparts CEO; "the da Vinci of his craft" (aerospace components, 2015).
+- [[Jay Pritzker]] — Dealmaking genius (Rockwood cocoa-bean arb, 1954); his family's Marmon Group sold to Berkshire (2007).
+- [[Frank Ptak]] — Marmon Group CEO at the 2007 Berkshire purchase (ITW pedigree).
+- [[Tad Montross]] — Became General Re CEO in 2008 (succeeding Joe Brandon); completed its turnaround.
+- [[Matt Rose]] — BNSF CEO at the 2009–2010 Berkshire acquisition.
+- [[Todd Combs]] — Investment manager hired 2010 (the "Secretariat not Seabiscuit" pick); future CIO.
+- [[Ted Weschler]] — Second investment manager (joined after year-end 2011); future co-CIO with Combs.
+- [[James Hambrick]] — Lubrizol CEO since 2004 (pre-tax $147M → $1,085M); the manager who drew Berkshire in.
+- [[Jorge Paulo Lemann]] — Brazilian 3G Capital founder; Buffett's partner in Heinz (2013) and Kraft Heinz (2015).
+- [[Kara Raiguel]] — Became CEO of General Re in 2016 (from Tad Montross); 16 years under Ajit Jain.
+- [[Jack Bogle]] — Vanguard founder and index-fund pioneer; Buffett's "hands-down" hero of American investors (2016).
+- [[Ted Seides]] — Protégé Partners co-manager; Buffett's counterparty in "The Bet" (2016).
+- [[Bill Roberts]] — Succeeded Tony Nicely as CEO of GEICO (2018).
+- [[Katie Farmer]] — Succeeded Carl Ice as CEO of BNSF (end of 2020).
+- [[Carl Ice]] — BNSF CEO (with/after Matt Rose); retired end of 2020.
+
+## Concepts
+- [[Return on Equity]] — The primary performance yardstick; EPS growth dismissed.
+- [[Acquisition Criteria]] — The four tests for buying a business or a stock.
+- [[Stocks as Fractional Ownership]] — Stocks are pieces of businesses, evaluated as such.
+- [[Insurance Underwriting Discipline]] — Write only at adequate prices; accept lost volume.
+- [[Insurance Float]] — Investable funds held against future claims.
+- [[Circle of Competence]] — Invest only in businesses you understand.
+- [[Look-Through Earnings]] — Investees' retained earnings are real value to the owner.
+- [[Concentration]] — Buy worthwhile amounts of high-conviction ideas; avoid lukewarm diversification.
+- [[Commodity vs Franchise Economics]] — Undifferentiated goods earn poor returns; franchises earn high ones.
+- [[Capital Allocation]] — Retain only if reinvestment beats payout/buyback; the one-dollar test.
+- [[Inflation]] — Inflation + taxes can erase real returns; the "investor's misery index."
+- [[Good Business at a Fair Price]] — Turnarounds seldom turn; prefer quality at a fair price.
+- [[Owner Orientation and Candor]] — Treat shareholders as owners; report with CEO-level candor.
+- [[Decentralization]] — Central capital allocation, extreme operational delegation, tiny HQ.
+- [[Financial Strength]] — Fortress balance sheet; liquidity and firepower over maximal ROE.
+- [[Owner Earnings]] — Reported earnings + non-cash charges − maintenance capex; the "cash flow" fallacy.
+- [[Economic Moat]] — The durable competitive advantage that protects a business "castle"; coined 1986.
+- [[Sainted Seven]] — Berkshire's seven non-financial units; the ~57%-ROE demonstration of franchise economics.
+- [[Arbitrage]] — Risk arbitrage on announced deals as a cash alternative; ~25% historical pre-tax returns.
+- [[Efficient Market Theory]] — Buffett's rebuttal: frequently efficient ≠ always; the 63-year >20% record.
+- [[Institutional Imperative]] — The unseen force that makes rational managers irrational; four manifestations.
+- [[Zero-Coupon Bonds]] — Benign origins vs. junk-era abuse (EBDIT, PIK, "the bezzle," bartender morality).
+- [[Super-Catastrophe Reinsurance]] — Concentrated mega-cat risk; "a lumpy 15% over a smooth 12%."
+- [[Margin of Safety]] — Graham's three-word secret; the junk-bond critique; "fallen angels" vs manufactured junk.
+- [[Value and Growth]] — "Joined at the hip"; growth is a variable in value; "value investing" is redundant.
+- [[Risk and Volatility]] — Real risk is permanent loss of purchasing power, not beta; the five factors.
+- [[Corporate Governance]] — The three owner/manager models and a director's leverage in each.
+- [[Class B Shares]] — The 1995 recap creating Class A/B stock to thwart Berkshire "clone" trusts.
+- [[The Inevitables]] — Companies (Coke, Gillette) certain to dominate for an investment lifetime; vs. "Impostors" and "Highly Probables."
+- [[Unconventional Commitments]] — Alternatives to cash when no wonderful business is available; the 1997 silver, oil, and zero-coupon Treasury bets.
+- [[Bird in the Bush]] — Aesop's valuation formula (certainty × amount/timing × risk-free rate); growth as a component of value; the dot-com bubble warning.
+- [[Derivatives]] — "Financial weapons of mass destruction"; mark-to-myth, collateral spirals, daisy-chain risk (2002); Berkshire's own later equity-put/CDS bets.
+- [[Trade Deficit and the Dollar]] — Buffett's mid-2000s dollar bearishness; the ~$12B FX bet; "Squanderville vs. Thriftville" / "sharecropper society."
+- [[The Great the Good and the Gruesome]] — Classifying businesses by capital intensity vs. returns; See's (great), FlightSafety (good), airlines (gruesome).
+- [[The Berkshire System]] — Munger's 2014 codification of Berkshire's design and why it outlasts its founders.
+- [[Index Funds and Fees]] — Why low-cost index funds beat high-fee "helpers"; "The Bet" and the fee critique.
+- [[Operating Earnings vs GAAP Net Income]] — Judge Berkshire by operating earnings; the 2018 mark-to-market rule makes GAAP net income "useless."
+- [[The Five Groves]] — Buffett's 2018 framework for valuing Berkshire as five appraisable "groves"; the whole > sum of parts.
+- [[The American Tailwind]] — The compounding prosperity of American business; $114.75 in 1942 → $606,811; gold no match for "American mettle."
+- [[The Power of Retained Earnings]] — Edgar Lawrence Smith / Keynes; reinvested earnings compound; why investees' retained earnings ($8.3B) dwarf their dividends.
+
+## Threads
+- [[Financial Performance Over Time]] — Standing quantitative record across letters.
+- [[Acquisitions Timeline]] — Chronological ledger of acquisitions and positions.
+- [[Mistakes Ledger]] — Buffett's candidly admitted errors, year by year.
+- [[Premium Takeovers]] — Why high-premium acquisitions usually destroy value (toads & princesses).
+- [[Shareholder-Designated Contributions]] — Owners direct Berkshire's charitable giving (Munger's idea).
+- [[Issuing Shares for Acquisitions]] — Issue stock only for equal intrinsic value; the $2-for-$1 trap.
+- [[Mr. Market]] — Graham's manic-depressive partner; exploit moods, don't follow them.
+- [[Intrinsic Business Value]] — Discounted future cash output; what can be taken out vs. put in.
+- [[Economic Goodwill]] — The franchise value above tangible assets; grows with inflation.
+- [[Permanent Ownership]] — Berkshire keeps its businesses; no "gin rummy" management.
+- [[Loss Reserving]] — Why P&C earnings are "a first rough draft"; Berkshire's own reserving candor.
+- [[Executive Compensation]] — Reward controllable results; the case against fixed-price options.
+- [[Evolving Views — Buybacks]] — How Buffett's stance on share repurchases develops.
+- [[Evolving Views — Dividends]] — Restricted vs unrestricted earnings; the retention test.
+- [[Evolving Views — Newspapers]] — From "best economics in business" to structural decline.
+- [[Evolving Views — Airlines]] — From the "gruesome" USAir aversion to the 2016 four-carrier bet.
+
+## Quotes
+- [[On Investing]] — Stocks-as-businesses, welcoming low prices, EPS vanity.
+- [[On Business Quality and Management]] — Tailwinds vs. headwinds; non-control.
